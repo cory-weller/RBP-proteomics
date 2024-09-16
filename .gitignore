@@ -3,10 +3,10 @@
 */.DS_Store
 *.sif
 *.fasta
-ProtPipe/mzML/*
-ProtPipe/BKP/*
+Proteomics/mzML/*
+Proteomics/BKP/*
 # Ignore output of scripts
-ProtPipe/src/pwiz_sandbox/
+Proteomics/src/pwiz_sandbox/
 Clustering/
 QC/
 MHC_Prediction/
